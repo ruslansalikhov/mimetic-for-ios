@@ -1,4 +1,4 @@
-# mimetic-for-ios
+# mimetic-for-ios [![Build Status](https://travis-ci.org/ruslansalikhov/mimetic-for-ios.svg?branch=master)](https://travis-ci.org/ruslansalikhov/mimetic-for-ios)
 
 Build script for building mimetic library for iOS
 
